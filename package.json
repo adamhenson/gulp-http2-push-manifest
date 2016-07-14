@@ -1,0 +1,31 @@
+{
+  "name": "gulp-http2-push-manifest",
+  "description": "A Gulp plugin used to generate a manifest file listing static resources used for HTTP/2 server push.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Adam Henson",
+    "email": "adamhenson1979@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/adamhenson/gulp-http2-push-manifest/issues"
+  },
+  "engines": {
+    "node": ">= 4.4.1"
+  },
+  "homepage": "https://github.com/adamhenson/gulp-http2-push-manifest",
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "gulpfriendly",
+    "http2",
+    "push",
+    "express"
+  ],
+  "license": "GNU",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamhenson/gulp-http2-push-manifest.git"
+  },
+  "readmeFilename": "README.md"
+}
