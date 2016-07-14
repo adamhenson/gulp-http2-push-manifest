@@ -1,3 +1,4 @@
+// https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/README.md
 // https://github.com/gulpjs/gulp/blob/master/docs/writing-a-plugin/guidelines.md
 var through = require('through2');
 var gutil = require('gulp-util');
